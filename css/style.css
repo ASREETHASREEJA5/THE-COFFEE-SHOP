@@ -214,10 +214,10 @@ section{
 }
 
 .home{
-    min-height: 100vh;
+    min-height: 95vh;
     display: flex;
     align-items: center;
-    background:url(../images/home.jpeg) no-repeat;
+    background:url(../images/bg.png) no-repeat;
     background-size: cover;
     background-position: center;
 }
